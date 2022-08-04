@@ -3,7 +3,7 @@ import os
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Funcoes sistema fincanceiro
+# Funcoes - sistema vendas mensais
 
 valorvenda = []
 mesvenda = []
