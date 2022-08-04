@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/villani31/Python_venda_mensal/blob/main/imagens/menuvisualizar.png?w=740" alt="Python_vendas"height=240px >
+  <img src="https://github.com/villani31/Python_venda_mensal/blob/main/imagens/menuvisualizar.png?w=740" alt="Python_vendas"height=330px >
 </p>
 
 <p align="center">
