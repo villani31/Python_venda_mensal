@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/villani31/Python_venda_mensal/blob/main/imagens/errologin.png?w=740" alt="Python_vendas"height=200px >
+  <img src="https://github.com/villani31/Python_venda_mensal/blob/main/imagens/errologin.png?w=740" alt="Python_vendas"height=180px >
 </p>
 
 <p align="center">
@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/villani31/Python_venda_mensal/blob/main/imagens/menugrafico.png?w=740" alt="Python_vendas"height=200px >
+  <img src="https://github.com/villani31/Python_venda_mensal/blob/main/imagens/menugrafico.png?w=740" alt="Python_vendas"height=350px >
 </p>
