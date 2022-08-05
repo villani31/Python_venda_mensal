@@ -51,3 +51,11 @@ Desenvolvido com linguem Python, usando estruturas condicionais (IF, ELIF, ELSE)
 <p align="center">
   <img src="https://github.com/villani31/Python_venda_mensal/blob/main/imagens/menugrafico.png?w=740" alt="Python_vendas"height=350px >
 </p>
+
+----------------------------------------------------------------
+
+Para conhecer mais sobre meus projetos:
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/thiagovillani)
+* [Portfólio de Projetos](https://github.com/villani31/Data_Science)
