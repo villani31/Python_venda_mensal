@@ -1,4 +1,4 @@
-# Python - Projeto sistema cadastrar valores mensais
+# Projeto Python - Sistema Cadastrar Valores Mensais
 
 Nesse projeto, criei um sistema simples, que faz recebe o cadastro do mês e valor mensal, tendo as opções de alter, excluir, visualizar, e ver em um gráfico de barras, o valor de cada mês.
 
