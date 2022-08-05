@@ -1,6 +1,6 @@
 # Projeto Python - Sistema Cadastrar Valores Mensais
 
-Nesse projeto, criei um sistema simples, que faz recebe o cadastro do mês e valor mensal, tendo as opções de alter, excluir, visualizar, e ver em um gráfico de barras, o valor de cada mês.
+Nesse projeto, criei um sistema simples, que recebe o cadastro do mês e valor mensal, tendo as opções de alter, excluir, visualizar, e ver em um gráfico de barras, o valor de cada mês.
 
 Desenvolvido com linguem Python, usando estruturas condicionais (IF, ELIF, ELSE), loops de repetições (FOR, WHILE), e gerando gráfico com seaborn e matplotlib, conforme podem analisar as imagens, e ver o código.
 
